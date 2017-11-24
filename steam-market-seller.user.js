@@ -2,6 +2,7 @@
 // @name           Steam market seller
 // @namespace      https://github.com/tboothman/steam-market-seller
 // @description    Quickly sell items on steam market
+// @licence        CC BY-NC-SA 3.0 (https://creativecommons.org/licenses/by-nc-sa/3.0/)
 // @version        0.7.2
 // @include        http://steamcommunity.com/id/*/inventory*
 // @include        http://steamcommunity.com/profiles/*/inventory*
